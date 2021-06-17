@@ -82,7 +82,7 @@ header #follower{
 }
 .grid{
     display:grid;
-    grid-row-gap: 25px;
+    row-gap: 25px;
 }
 .card{
     border-radius: 8px;
@@ -162,14 +162,14 @@ header #follower{
 }
 .wrapper{
     display:grid;
-    grid-row-gap: 1em;
+    row-gap: 1em;
 }
 .card-small{
     border-radius: 8px;
     background: var(--card-bg);
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-row-gap: 1em;
+    row-gap: 1em;
     padding: 1.7em;
 }
 .card-small p {
