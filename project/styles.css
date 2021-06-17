@@ -213,6 +213,7 @@ header #follower{
     height: .7em;
     margin-right: 5px;
 }
+/*media queries*/
 @media screen and (min-width:480px){
     .grid{
         grid-template-columns: 1fr 1fr;
